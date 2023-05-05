@@ -1,4 +1,4 @@
-module birkhoff.me/netcheck
+module github.com/BirkhoffLee/netcheck
 
 go 1.20
 
